@@ -1,0 +1,5 @@
+{
+  "name": "Bidu Novel Translator",
+  "description": "A web application to translate novel chapters from Chinese to Indonesian using the Gemini API. Paste the text from a website like bidutuijian.com to get the translation.",
+  "requestFramePermissions": []
+}
